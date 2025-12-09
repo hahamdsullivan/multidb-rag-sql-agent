@@ -5,7 +5,7 @@ A schema-grounded, multi-database natural language to SQL agent with automatic d
 This project allows users to ask natural language questions and get verified SQL results from multiple SQLite databases using a Retrieval-Augmented Generation (RAG) approach over database schemas.
 
 
-![alt text](3.png) ![alt text](1.png) ![alt text](2.png)
+
 
 ---
 
