@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+openai
+sqlalchemy
+streamlit
+fastapi
+uvicorn
+python-dotenv
+pandas
+tiktoken
